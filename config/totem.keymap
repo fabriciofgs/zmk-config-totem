@@ -65,10 +65,10 @@
 
         nav_num {
             bindings = <
-               &kp RIGHT_BRACE        &kp PG_UP      &kp UP     &kp PAGE_DOWN     &kp LEFT_BRACE          &kp N5          &kp N6        &kp N7     &kp N8    &kp N9
-               &kp RIGHT_PARENTHESIS  &kp LEFT       &kp DOWN   &kp RIGHT         &kp LEFT_PARENTHESIS    &kp N0          &kp N1        &kp N2     &kp N3    &kp N4
-&kp BACKSLASH  &kp RIGHT_BRACKET      &kp LESS_THAN  &kp ENTER  &kp GREATER_THAN  &kp LEFT_BRACKET        &kp PERIOD      &kp PLUS      &kp MINUS  &kp STAR  &kp FSLH  &kp PERCENT
-                                                     &trans     &trans            &kp EQUAL               &kp LEFT_SHIFT  &kp LEFT_GUI  &kp EQUAL
+               &kp RIGHT_BRACE        &kp PG_UP      &kp UP     &kp PAGE_DOWN     &kp LEFT_BRACE          &kp N5          &kp N6     &kp N7     &kp N8    &kp N9
+               &kp RIGHT_PARENTHESIS  &kp LEFT       &kp DOWN   &kp RIGHT         &kp LEFT_PARENTHESIS    &kp N0          &kp N1     &kp N2     &kp N3    &kp N4
+&kp BACKSLASH  &kp RIGHT_BRACKET      &kp LESS_THAN  &kp ENTER  &kp GREATER_THAN  &kp LEFT_BRACKET        &kp PERIOD      &kp PLUS   &kp MINUS  &kp STAR  &kp FSLH  &kp PERCENT
+                                                     &trans     &trans            &kp LEFT_GUI            &kp LEFT_SHIFT  &kp EQUAL  &trans
             >;
         };
 
